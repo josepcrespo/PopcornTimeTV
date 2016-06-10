@@ -17,7 +17,7 @@ To install it simply open Terminal and enter the following command
 
 or, if you are using OS X 10.11 "El Capitan", better use this command
 
-`sudo gem uninstall cocoapods`
+`sudo gem install -n /usr/local/bin cocoapods`
 
 Setting up PopcornTime is quite easy.
 *Open Terminal to run the following commands*
